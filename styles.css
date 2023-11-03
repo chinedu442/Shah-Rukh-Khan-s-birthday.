@@ -80,7 +80,7 @@ h1, h3, p{
 }
 
 #gift-cover-cheers:hover{
-	background-image: url("images/cheers.gif");
+	background-image: url("cheers.gif");
 	height: 200px;
 }
 
