@@ -47,7 +47,7 @@ h1, h3, p{
 
 
 .gift-cover{
-	background-image: url("images/gift-cover.jpg");
+	background-image: url("gift-cover.jpg");
 	background-size: cover;
 	margin: 20px auto;
 	width: 400px;
